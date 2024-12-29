@@ -22,8 +22,8 @@ The MTO-Platform (MToP) has incorporated the relevant problem and algorithm at:
 
 [RVC-MTEA Algorithm](https://github.com/intLyc/MTO-Platform/tree/master/MTO/Algorithms/)
 
-[Competitive MOSCP](https://github.com/intLyc/MTO-Platform/tree/master/MTO/Problems/)
+[Competitive MO-SCP](https://github.com/intLyc/MTO-Platform/tree/master/MTO/Problems/)
 
-[Competitive OPF](https://github.com/intLyc/MTO-Platform/tree/master/MTO/Problems/)
+[Competitive MO-OPF](https://github.com/intLyc/MTO-Platform/tree/master/MTO/Problems/)
 
 MToP provides convenient utility functions. We highly recommend using it for code running. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
